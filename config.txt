@@ -1,0 +1,3 @@
+name = Mike.
+size = 1000.
+email = randoomemail@abv.bg
