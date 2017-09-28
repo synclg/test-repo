@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 name = Sa6o.
 size = 200.
 email = no email.
-=======
+
 name = Mike.
 size = 1000.
 email = randoomemail@abv.bg
->>>>>>> origin/master
+
